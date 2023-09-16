@@ -32,3 +32,7 @@ According to the child's age, break down the list into which class the child has
 
 8. If the age is not entered (i.e. not a number), write: "The age is incorrectly specified, the age must be a number."
 9. Use the prompt function to enter the age.
+
+
+
+
